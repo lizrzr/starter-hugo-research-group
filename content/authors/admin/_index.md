@@ -66,7 +66,7 @@ user_groups:
   - Supervisor
 ---
 
-Weiwen Wu is a Associate professor of Biomedical Engineering at the Sun Yat-sen MICIS Lab. Before joining the SYSU, he is the postdoctoral fellow in Rensselaer Polytechnic Institute under supervision of Professor Ge Wang in 2020-2021. He also serves as the postdoctoral fellow in Hong Kong University in 2019-2020. His research interests include computed tomography, magnetic resonance imaging, image reconstruction and deep learning.
+Weiwen Wu is a Associate professor of Biomedical Engineering at the Sun Yat-sen MICIS Lab. Before joining the SYSU, he is the postdoctoral fellow in Rensselaer Polytechnic Institute under supervision of Professor Ge Wang in 2020-2021. He also serves as the postdoctoral fellow in Hong Kong University in 2019-2020. His research interests include Computed tomography, magnetic resonance imaging, image reconstruction and deep learning.
 
 
 
