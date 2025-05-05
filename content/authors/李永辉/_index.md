@@ -1,16 +1,16 @@
 ---
 # Display name
-title: Yonghui Li
+title: Qi Wang
 
 # Username (this should match the folder name)
 authors:
-  - 李永辉
+  - 王琪
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: Graduate Student of Biomedical Engineering
+role: Phd Student of Engineering
 
 # Organizations/Affiliations
 organizations:
@@ -23,8 +23,8 @@ bio: My research interests include artificial intelligence, CT image reconstruct
 interests:
   - Machine Vision
   - Image Denoising
-  - Unsupervised Learning
-  - Spectral CT
+  - Supervised Learning
+  - Spiral CT
 
 education:
   courses:
