@@ -64,6 +64,6 @@ user_groups:
 #  - Visitors
 ---
 
-Yuxian Huang is a graduate student of MICIS group at the Sun-Yat-Sen University. Her research interests include artificial intelligence, 3D reconstruction and image Processing.
+Zhihua Guo is a graduate student of MICIS group at the Sun-Yat-Sen University. Her research interests include artificial intelligence, 3D reconstruction and image Processing.
 
 
