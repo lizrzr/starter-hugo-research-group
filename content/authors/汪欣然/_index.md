@@ -27,7 +27,7 @@ interests:
 
 education:
   courses:
-    - course: B.E in Communication Engineering
+    - course: B.E in Mathematics and Statistics
       institution: Beijing Jiaotong University of Technology
       year: 2023
 
