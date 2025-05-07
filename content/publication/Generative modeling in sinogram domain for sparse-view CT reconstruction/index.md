@@ -16,7 +16,7 @@ author_notes:
   -  
   -   
 #  - 'Equal contribution'
-date: '2023-8-28T00:00:00Z'
+date: '2023-08-28T00:00:00Z'
 doi: '10.1109/TRPMS.2023.3309474'
 
 # Schedule page publish date (NOT publication's date).
