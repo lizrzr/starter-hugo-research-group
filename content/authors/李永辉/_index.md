@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Phd Student of Engineering
+role: Phd Student of Optoelectronic Engineering
 
 # Organizations/Affiliations
 organizations:
