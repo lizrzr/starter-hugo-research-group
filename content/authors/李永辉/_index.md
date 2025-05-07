@@ -28,7 +28,7 @@ interests:
 
 education:
   courses:
-    - course: B.E in Computer Science and Artificial Intelligence
+    - course: B.E in Computer Science
       institution: Huanggang Normal University
       year: 2019
     - course: M.S in Computer and Information Science
