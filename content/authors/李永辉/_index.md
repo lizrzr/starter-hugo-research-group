@@ -28,12 +28,12 @@ interests:
 
 education:
   courses:
-    - course: B.E in Optoelectronic Engineering
+    - course: B.E in Computer Science and Artificial Intelligence
+      institution: Huanggang Normal University
+      year: 2019
+    - course: M.S in Computer and Information Science
       institution: Chongqing University
-      year: 2020
-    - course: M.S in Optoelectronic Engineering
-      institution: Chongqing University
-      year: 2023  
+      year: 2022  
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -68,7 +68,7 @@ user_groups:
 #  - Visitors
 ---
 
-Yonghui Li is a graduate student of MICIS group at the Chongqing University. His research interests include machine vision, image denoising, unsupervised learning and spectral CT.
+Qi Wang is a graduate student at the ICT Center, College of Optoelectronic Engineering, Chongqing University. Her research interests include machine vision, image denoising, unsupervised learning, and spectral CT.
 
 
 
